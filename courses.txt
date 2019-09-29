@@ -1,0 +1,16 @@
+<html>
+<head></head>
+<body bgcolor="Black" >
+<font color="White" size=20>
+<h1><centre>ONLINE PHOTOGRAPHY COURSES</centre></h1>
+<p>Picturesque Institute of Photography offers accredited and affordable online photography classes that allow students to learn photography anytime, anywhere, at your own pace.</p>
+<ul>
+
+<li><h2>Professional Photography</h2><img src="C:\Users\user\Desktop\Photoooo\professional.jpg"></li>
+<li><h2>Wedding Photography</h2><img src="C:\Users\user\Desktop\Photoooo\wedding.jpg"></li>
+<li><h2>Photojournalism Course</h2><img src="C:\Users\user\Desktop\Photoooo\photojourn.jpg"></li>
+<li><h2>Nature and Landscape Photography</h2><img src="C:\Users\user\Desktop\Photoooo\nature.jpg"></li>
+</ul>
+</font>
+</body>
+</html>

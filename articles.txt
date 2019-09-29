@@ -1,0 +1,30 @@
+<hmtl>
+<head>
+<title>
+ARTICLES
+</title>
+</head>
+<body background="C:\Users\user\Desktop\Photoooo\b2.jpg" width=100%>
+
+<h1>What's It Really Like to Study Photography Online? </h1>
+<p>
+<h3>If you are interested in learning something as hands-on as photography, it can be hard to imagine how the Picturesque of Photography can instruct you in such an interactive subject online. How will you get in touch with your mentor if you run into trouble or have questions? How will he or she grade your photo projects? </h3> 
+</p>
+<h1>Communicate your unique voice with images</h1>
+<h3><p> Our photography classes prepare you for various career opportunities such as a photojournalist , commercial photographer , or fine art photographer</h3></p>
+<h1>Photography area of interest </h1>
+<h3><p>Creating a memorable image that demands attention requires effort and skill.Our hands on photography classes along with our experienced faculty will help align the technical skills you'll gain with your conceptual aesthetic.</p></h3>  
+<h1>Student work</h1>
+<h3><p>Our graduates work at these respeced companies ,among others:
+<ul>
+
+<li>ARCADIA</li>
+<li>GAP</li>
+<li>HARVARD</li>
+<li>MONSTER</li>
+</ul>
+</p>
+</h3>
+</font>
+</body>
+</html>

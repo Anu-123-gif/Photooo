@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function v(){
+var x=document.forms["myForms"]
+["fname"].value;
+if(x==""){
+alert("Name not filled");
+return false;
+}
+var y=document.forms["myForms"]
+["femail"].value;
+if(y==""){
+alert("Email not filled");
+return false;
+var z=document.forms["myForms"]
+["fmailadd"].value;
+if(z==""){
+alert("Mailing address not filled");
+return false;
+var a=document.forms["myForms"]
+["fcity"].value;
+if(a==""){
+alert("City not filled");
+return false;
+var b=document.forms["myForms"]
+["fzip"].value;
+if(c==""){
+alert("Zip Code not filled");
+return false;
+var d=document.forms["myForms"]
+["fregion"].value;
+if(d==""){
+alert("Region not filled");
+return false;
+var e=document.forms["myForms"]
+["fcoun"].value;
+if(e==""){
+alert("Country not filled");
+return false;
+var g=document.forms["myForms"]
+["fapt#"].value;
+if(g==""){
+alert("Suite/Apt# not filled");
+return false;
+var h=document.forms["myForms"]
+["ftel"].value;
+if(h==""){
+alert("Telephone Number not filled");
+return false;
+var j=document.forms["myForms"]
+["fdob"].value;
+if(j==""){
+alert("Date Of Birth not filled");
+return false;
+}}
+</script>
+</head>
+<body>
+<form name="myForms"
+action ="/action_page.php"
+onsubmit="return v()"
+method="post">
+<body style="background-color:green;">
+<h1 style="font-size:300%;">Your Profile:</h1>
+
+
+<p style="font-size:160%;">Name: 
+<input type="text" name="fname" required>
+</p>
+<p style="font-size:160%;">Email: <input type="text" name="femail" required>
+&nbsp <input type="radio" name="gender" id="male"> 
+    <label for="m">Male</label>
+    
+    <input type="radio" name="gender" id="female"> 
+    <label for="f">Female</label>
+   
+        <br><br>
+Mailing Address:<input type="text" name="fmailadd" required>&nbsp 
+Suite/Apt#:<input type="text" name="fapt#" required><br><br>
+ City:<input type="text" name="fcity" required> &nbsp
+State/Province/Region:<input type="text" name="fregion" required><br><br>
+Zip Code:  <input type="text" name="fzip" required>&nbsp
+Country:<input type="text" name="fcoun" required><br><br>
+Telephone Number:
+
+<input type="text" name="ftel" required>  &nbsp
+
+Date Of Birth:
+  <input type="date" name="bday">
+<form action="form1.html">
+<a href="form2.htm">Previous</a>
+<a href="form3.htm">Next</a>
+</form>
+</body>
+</html>

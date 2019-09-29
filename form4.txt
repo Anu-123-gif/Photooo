@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+<body>
+<font color="#000000" font face="Verdana" font size="7">Congratulations !</font><br/><br/><br/>
+<font color="#000000" font face="Verdana" font size="7">You have succesfully enrolled in this course :)</font><br/>
+<font color="#000000" font face="Cursive" font size="6">Start Clicking !</font><br/>
+</body>
+</html>
